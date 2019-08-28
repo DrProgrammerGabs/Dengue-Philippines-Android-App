@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<name>mvad</name>
+<type>1</type>
+<ver>160</ver>
+<channel>1</channel>
+<!-- 
+type类型
+1:标准广告SDK
+2:原生广告SDK
+-->

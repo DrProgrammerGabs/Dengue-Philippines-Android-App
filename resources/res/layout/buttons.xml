@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ViewSwitcher android:id="@+id/switcher" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+        <RelativeLayout android:id="@+id/topBar" android:background="@color/bar" android:paddingLeft="0dp" android:paddingTop="0dp" android:paddingRight="0dp" android:paddingBottom="0dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@+id/searchButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_magnifying_glass" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/search_document"/>
+            <ImageButton android:id="@+id/outlineButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_list" android:layout_toLeftOf="@+id/searchButton" android:layout_centerVertical="true" android:contentDescription="@string/search_document"/>
+            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/docNameText" android:paddingLeft="15dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@+id/searchButton" android:layout_alignParentLeft="true" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+        <RelativeLayout android:id="@+id/topBar2" android:background="@color/bar" android:paddingLeft="0dp" android:paddingTop="0dp" android:paddingRight="0dp" android:paddingBottom="0dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageButton android:id="@+id/cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cancel" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/cancel"/>
+            <EditText android:id="@+id/searchText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="Search" android:singleLine="true" android:layout_toLeftOf="@+id/searchBack" android:layout_toRightOf="@+id/cancel" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:inputType="text"/>
+            <ImageButton android:id="@+id/searchBack" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_arrow_left" android:layout_toLeftOf="@+id/searchForward" android:layout_centerVertical="true" android:contentDescription="@string/search_backwards"/>
+            <ImageButton android:id="@+id/searchForward" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_arrow_right" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/search_forwards"/>
+        </RelativeLayout>
+    </ViewSwitcher>
+    <RelativeLayout android:id="@+id/lowerButtons" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <SeekBar android:id="@+id/pageSlider" android:background="@drawable/slider" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+        <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/pageNumber" android:background="@drawable/page_num" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:layout_above="@+id/pageSlider" android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</RelativeLayout>

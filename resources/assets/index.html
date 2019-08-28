@@ -1,0 +1,65 @@
+﻿<html>
+<head>
+<title>Android Flash Player</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">
+var playover=true;//直接播放
+var total;//定义flash影片总桢数
+var frame_number=-1;//定义flash影片当前桢数
+
+//动态显示播放影片的当前桢/总桢数(进度条显示)
+function showcount(){
+	//已测可用CallJava.consoleFlashProgress(5);
+	var num=1+fmovie.CurrentFrame();
+	var millisec=150;
+	if(num<frame_number || num==total)
+		{CallJava.consoleFlashProgress(100);millisec=1000;}
+	else
+		CallJava.consoleFlashProgress(100*(num/total));
+
+	frame_number=num;
+	//geolo.innerText = "n/m: "+frame_number+"/"+total
+	setTimeout(showcount,millisec);
+}
+function isLoad(){
+	if(fmovie.PercentLoaded()==100)frame_number=0;
+}
+//加载影片 
+function Load(){
+	if(frame_number>=0) {
+		total = fmovie.TotalFrames();
+		if(playover && total>1) Play();
+		CallJava.FlashLoaded();
+		setTimeout(showcount,100);
+	}else {
+		setTimeout(Load,100);
+		setTimeout(isLoad,50);
+	}
+}
+//播放影片 
+function Play(){
+	playover=true;
+	fmovie.Play();
+}
+//暂停播放
+function Pause(){
+	fmovie.StopPlay();
+}
+//影片高宽
+function SetWH(x,y){
+	var m=document.getElementById("fmovie")
+	m.height=y;//m.width=x;
+}
+setTimeout(Load,100);
+</script>
+</head>
+<body leftmargin=0 topmargin=0 rightmargin=0 bottommargin=0>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+	codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" 
+	align="middle">
+	<param name="movie" value="about:blank" />
+	<param name="quality" value="high" />
+	<embed src="flash.swf" bgcolor="#FFFFFF" id="fmovie" height="100%" width="100%"></embed>
+</object>
+</body>
+</html>

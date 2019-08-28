@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="white">#fff</drawable>
+    <drawable name="black">#000</drawable>
+    <drawable name="blue">#0000ff</drawable>
+    <drawable name="transparent">#00ffffff</drawable>
+</resources>

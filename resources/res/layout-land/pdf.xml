@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/pdf_toolbar" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <Button android:textColor="@drawable/black" android:gravity="center" android:id="@+id/btn_prev" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="上一页"/>
+        <Button android:textColor="@drawable/black" android:gravity="center" android:id="@+id/btn_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="下一页" android:layout_toRightOf="@+id/btn_prev"/>
+        <Button android:textColor="@drawable/black" android:gravity="center" android:id="@+id/back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="返回" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <org.vudroid.core.DocumentView android:id="@+id/pdf_view" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/pdf_toolbar"/>
+</RelativeLayout>

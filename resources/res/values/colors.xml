@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="all_white">#ffffff</color>
+    <color name="all_black">#000000</color>
+    <color name="listbg">#e7ecef</color>
+    <color name="listselect">#007ae1</color>
+    <color name="canvas">#ff404040</color>
+    <color name="bar">#c0202020</color>
+    <color name="push_txt_time">#989898</color>
+</resources>

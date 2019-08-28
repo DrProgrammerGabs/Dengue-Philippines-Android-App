@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="backColor" format="reference|color">
+    </attr>
+    <attr name="backAlpha" format="reference|integer">
+    </attr>
+    <attr name="titleColor" format="reference|color">
+    </attr>
+    <attr name="enableDebugMode" format="boolean">
+    </attr>
+    <attr name="curlSpeed" format="integer">
+    </attr>
+    <attr name="updateRate" format="integer">
+    </attr>
+    <attr name="initialEdgeOffset" format="integer">
+    </attr>
+    <attr name="curlMode">
+        <enum name="Simple" value="0" />
+        <enum name="Dynamic" value="1" />
+    </attr>
+    <attr name="backgroundColor" format="color">
+    </attr>
+    <attr name="primaryTextColor" format="color">
+    </attr>
+    <attr name="keywords" format="string">
+    </attr>
+    <attr name="spots" format="string">
+    </attr>
+    <attr name="refreshInterval" format="integer">
+    </attr>
+</resources>

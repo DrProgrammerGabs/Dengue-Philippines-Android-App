@@ -1,0 +1,1191 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_19 (Sun Microsystems Inc.)
+
+Name: res/drawable/pp_1.png
+SHA1-Digest: fQoV8mHPUk4qIe2vbTXaizBonUs=
+
+Name: res/layout/browser.xml
+SHA1-Digest: PzgV1a/UtLDi8algwdwj1Fh0ClQ=
+
+Name: res/drawable/progress_audio_bg.png
+SHA1-Digest: sOPUIH9okdT4EkmjyUClmeNN7UQ=
+
+Name: assets/book/-1566606034809.am
+SHA1-Digest: LqiMM/CSOEbpGh3VyESzVtXsOz0=
+
+Name: res/drawable/jz_00005.png
+SHA1-Digest: Z487lNo5/D9KTsXZGX/O1QXHKpo=
+
+Name: res/drawable/btngarally_select.png
+SHA1-Digest: 7WYf30KAMDbAgSC7CypryDmF2qc=
+
+Name: res/drawable/rp_1.png
+SHA1-Digest: pkh/d9SXveqkiQe17dCRC6qDDZ0=
+
+Name: assets/book/-1566476286834.am
+SHA1-Digest: JW2xeqkoS64jSH4bS2E/6AjaG6c=
+
+Name: assets/book/-1565403571471.am
+SHA1-Digest: +ZLwVhKLm9MsV/kFJs2UqpoVavc=
+
+Name: res/drawable/jz_00048.png
+SHA1-Digest: xc01th9/ZZekgtDMg6D774jhD/o=
+
+Name: assets/book/-1566606050195.am
+SHA1-Digest: ZnTuv3PSf1YxSwxW1Y+X99sa8Fk=
+
+Name: assets/book/-1566606067120.am
+SHA1-Digest: tO2Jk1JAhba7pYwxDv527Oi0TOU=
+
+Name: assets/book/-1566606046275.am
+SHA1-Digest: q0orLMzT8aqEM1eBzngDM8BJ+uI=
+
+Name: res/drawable/orange_btn_corner_normal.xml
+SHA1-Digest: 6/X2fuhvvVRTBENrA8RUk6ZsiFQ=
+
+Name: res/drawable/jz_00010.png
+SHA1-Digest: I0x1xg3HUtzYdPEJ+6yU5yPS9KY=
+
+Name: res/raw/flip.mp3
+SHA1-Digest: 9JxYjX7zfxYnbDKBWNaCyo5Td4I=
+
+Name: assets/book/-1566476278103.am
+SHA1-Digest: gUc0PdRFoML+ko25tSUykBYLci0=
+
+Name: res/drawable-ja-JP/hlvidiodefault.jpg
+SHA1-Digest: 4m1fBbY4e+7Jp1Xr0m0t0C3jzfc=
+
+Name: res/drawable/paint_06.png
+SHA1-Digest: gsAuNL+4zZKJlCfK1bGRg6BQANg=
+
+Name: assets/book/-1566606049305.am
+SHA1-Digest: GTFb3RKYg6hZ94hOhxkm6TpMYb0=
+
+Name: res/drawable/blackcorner.xml
+SHA1-Digest: 5Sf42mOR4EzrYtwU8lYQ44FhtMY=
+
+Name: assets/book/-1566478035684.am
+SHA1-Digest: xQtDtrrCuTB86bPgnJU+3lHzNeA=
+
+Name: res/drawable/downgallerybtn.xml
+SHA1-Digest: nL8OyUlUUIYVQtjzlitVd7pSouI=
+
+Name: res/drawable/radio_correct.png
+SHA1-Digest: UhKE+M8Igjd0BsmYaKg9Nbe+FqA=
+
+Name: res/drawable/btn_search_selector.xml
+SHA1-Digest: XOGKdovcrcTF1Xc48a23wgMdPX8=
+
+Name: assets/book/-1565403431456.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/drawable/jz_00018.png
+SHA1-Digest: ImDkUKZVB0N5NIAqsnC3grxgEXs=
+
+Name: res/drawable/ic_arrow_left.png
+SHA1-Digest: gqbpxinIkFQAiU6lhJ6tywiKrMQ=
+
+Name: res/drawable/puzzlestar1.png
+SHA1-Digest: CB1fWxsHy5YE6Xmk+z+kG++hqks=
+
+Name: assets/book/-1566606050351.am
+SHA1-Digest: v2myEpG6W3/oCz6Yrk0w2e/a+h4=
+
+Name: res/drawable/skip.png
+SHA1-Digest: n//+he4o+87uZU3h7357ZyhI6Dc=
+
+Name: assets/book/-1566606041710.am
+SHA1-Digest: RW5PiuLL1YvTrP6DZk3oQ+ibtR4=
+
+Name: assets/book/-1566476284485.am
+SHA1-Digest: x2ydzNLmWEF5qAO0M+AGNsHRfPY=
+
+Name: assets/book/-1566606063087.am
+SHA1-Digest: hSjPOfgUslnqKhUpBTJFbhIyPZ4=
+
+Name: res/drawable-zh-TW/puzzlepopup.png
+SHA1-Digest: JBeb0wAx0z8EO0a9FFcqrcvekqM=
+
+Name: assets/book/-1566606067557.am
+SHA1-Digest: 64jWB5Ddqgac3J1B4GhVWbJS8s4=
+
+Name: res/drawable/jz_00035.png
+SHA1-Digest: lpP9NZ4blISMgzxD8OJkAJQ8bA8=
+
+Name: assets/book/-1566606064920.am
+SHA1-Digest: tO2Jk1JAhba7pYwxDv527Oi0TOU=
+
+Name: res/drawable/btn_cata_selector.xml
+SHA1-Digest: kdGXK9ykQ5eO+6hMMs+jqH0yw24=
+
+Name: res/drawable/play_01.png
+SHA1-Digest: n3nxaeSXpiC2nOaFLKirOVx/uZA=
+
+Name: assets/mediav_ad_bg.jpg
+SHA1-Digest: PXJNleYtY3O+HtVxLug06nrFlGY=
+
+Name: res/drawable/indesign_navcatabtnup.png
+SHA1-Digest: /+yUAEh7Ubl1lN0NYtQNVmKM80E=
+
+Name: res/drawable/share_normal.png
+SHA1-Digest: W39s/B/NsNMgXFZCxVPSIkYSDzY=
+
+Name: res/drawable/push_s.png
+SHA1-Digest: nHUfFw618C35mXcPo/jYdE4rTQ4=
+
+Name: lib/armeabi/gdb.setup
+SHA1-Digest: RQG7quUKmTNeLr5n3kRko0FrRIU=
+
+Name: res/drawable/paint_10.png
+SHA1-Digest: 6/yus3Gi/oaURWF948KGp4bA6V4=
+
+Name: assets/book/book.dat
+SHA1-Digest: XDJMOqHpTN3lRq9XhrkdfhRIH2M=
+
+Name: assets/book/-1566476282423.am
+SHA1-Digest: 2g0Nl7RZ8z4Dd3Rr+Z143dTzegE=
+
+Name: assets/book/-1566606042288.am
+SHA1-Digest: RrRMPPNU9u0aUZNLQxed7XzF4xk=
+
+Name: assets/book/-1566606038347.am
+SHA1-Digest: cQjbd2T0PslpRPDZBbrQ1kvbvJ4=
+
+Name: assets/book/-1566606039003.am
+SHA1-Digest: u6jk1KQCqet83EYHHGvCGrsyF2k=
+
+Name: res/drawable/jz_00011.png
+SHA1-Digest: pJYLvqeiBpdD0sulVvM2GB5OKaw=
+
+Name: assets/book/-1566477823997.am
+SHA1-Digest: MgRIcaQSuSaj1QuTnkwHXNNTbQg=
+
+Name: assets/book/-1566606041085.am
+SHA1-Digest: PZphISbMQsW38XmAir4+fTiItnY=
+
+Name: res/drawable/jz_00003.png
+SHA1-Digest: 86pYhIn87FG1EHAIuIKKqFenCSM=
+
+Name: assets/fonts/times.ttf
+SHA1-Digest: hKpuiSVK38qZm0g1XwuiK4FocZA=
+
+Name: res/drawable/ic_nolink.png
+SHA1-Digest: 2vpEnzZY+NgmQ71NCO69oEioLYU=
+
+Name: res/drawable/btn_goback_selector.xml
+SHA1-Digest: AiwzngwzM9Lh+CvlHEgeex7yssE=
+
+Name: assets/book/-1566606063984.am
+SHA1-Digest: Cyh/5fPzcO0nCT7SYmUY6vz5/Xg=
+
+Name: assets/book/-1566606049477.am
+SHA1-Digest: XsQ4uLCzRXYp0GVdzm8tgAc3EfQ=
+
+Name: assets/book/-1566606051148.am
+SHA1-Digest: XQFpgo/6fJ/zQfACXSECEhJInuA=
+
+Name: res/drawable/audio_play_new.png
+SHA1-Digest: R5fEF2g0GwoIod19EjVjxfxQna0=
+
+Name: res/drawable/moueevidiodefault.jpg
+SHA1-Digest: fvFPtpYw8HBAG4/xyF43OrnbTgo=
+
+Name: res/drawable/ios_media_play.png
+SHA1-Digest: fO/R6PMDcRBNokd7uE6jOtGS6ns=
+
+Name: assets/book/-1566606043621.am
+SHA1-Digest: RwZtX3ULM9Fjxj0Dl015KyCnCXQ=
+
+Name: res/drawable/dian01.png
+SHA1-Digest: Ax9r9/i1ih+YpZlMJzhq3jQBD5Y=
+
+Name: res/drawable/btngarally.xml
+SHA1-Digest: Wdh9tD75E3cngGK7+/VHIOoaIgg=
+
+Name: assets/book/-1565402583311.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/drawable/jz_00022.png
+SHA1-Digest: k2uPcykujtLalHlA35LCUNEIkKs=
+
+Name: res/drawable/jz_00039.png
+SHA1-Digest: Pe8rdmqIX5YZrl9lhPMEvqC8hIc=
+
+Name: res/drawable/right_select.png
+SHA1-Digest: FB61kFmRIAKNJAQ2VkpQx+4MW7E=
+
+Name: res/drawable/jz_00020.png
+SHA1-Digest: ceLpELrWjO1Oi6Z6/1VuokKo/rA=
+
+Name: res/drawable/orange_btn_corner.xml
+SHA1-Digest: eeHJLVFlt7ms9jBdMl9p91RsaXU=
+
+Name: res/drawable/btngarally_normal.png
+SHA1-Digest: I3Ivf0iZrjaRfvwm8X+0gl57JcU=
+
+Name: assets/book/-1566476283835.am
+SHA1-Digest: kgIQ5/Lr1lBhfXJYYKLRwlOqCks=
+
+Name: assets/index.html
+SHA1-Digest: SNdpojPxllee/m6Kodp3sIHd+H4=
+
+Name: res/drawable/jz_00001.png
+SHA1-Digest: yKraqjrTW/ki/8C92y8uEnxHduc=
+
+Name: res/drawable/right_arraw_select.xml
+SHA1-Digest: KpM5Q0eoLPV9o3oRJV0nRtpgFQw=
+
+Name: res/drawable/ic_link.png
+SHA1-Digest: deqRoL0RJ9TX+Kt8FNrZtfCsN1Y=
+
+Name: res/drawable/slider.xml
+SHA1-Digest: bUIPxfQ60oNb60un3pajQckGdwI=
+
+Name: res/drawable/puzzlepopup.png
+SHA1-Digest: yaf3sKUTBkikUIQbcrY7uzTA1mM=
+
+Name: res/drawable/ic_cancel.png
+SHA1-Digest: AqF2u+hHSJCbWMn6JfNW3FUFmwo=
+
+Name: res/drawable/btn_showconor_selecor.xml
+SHA1-Digest: Dq6PeosVHWIe9rqGyIVSM8hh0bE=
+
+Name: res/drawable/puzzletest.png
+SHA1-Digest: /aqB28E9Es4wDsAZEjjU130tgdE=
+
+Name: res/drawable/indesign_bottomnavsliderbtnup.png
+SHA1-Digest: bvOteTwFqotBKo9C6MbqK726S/o=
+
+Name: assets/book/-1566606040163.am
+SHA1-Digest: l/FocuW7v61lmpgHRLLhAvTEwQ8=
+
+Name: res/layout/buttons.xml
+SHA1-Digest: i8J/Phxk3wSP/25oRZlQBo0zjRs=
+
+Name: assets/book/-1566476283188.am
+SHA1-Digest: PF+fnpDcELq6z2hONnxSOtqHx7A=
+
+Name: res/drawable/right_arrow.png
+SHA1-Digest: MqbkxB2q6yNBMkQl7wZH4Cn/c2U=
+
+Name: assets/book/-1566476279433.am
+SHA1-Digest: i6Oe1opN2DyJD1T6QogthIwBnpU=
+
+Name: res/drawable/downgrallerybtn_normal.png
+SHA1-Digest: N/DxtDsxnORPWEOlvVh50S3A1a8=
+
+Name: res/drawable/scene_ic_loading_invert.9.png
+SHA1-Digest: LFMNhFb6EPGi+/9o9MLfxmd6sMQ=
+
+Name: assets/book/-1566606049055.am
+SHA1-Digest: HZ5vWFZWmtcPJVvJ6S7W5JtP/pA=
+
+Name: res/drawable/jz_00025.png
+SHA1-Digest: Z4yJS9gtP+mPfP54PjX4oOTO/sg=
+
+Name: res/layout/pdfpage.xml
+SHA1-Digest: 9eUP6Ls45OLeW81mgpt0gdKUHXs=
+
+Name: res/drawable-ja-JP/mark_add_press.png
+SHA1-Digest: APtlJwHA7Z6jFUjT23OCkKSwLds=
+
+Name: res/drawable/jz_00034.png
+SHA1-Digest: Q2VCg8N1Dz4at4iND6pKd6/51/8=
+
+Name: res/drawable/busy.xml
+SHA1-Digest: gm0+wCSE9Cmc7x+PCcczNekZq88=
+
+Name: res/drawable/indesign_showconordown.png
+SHA1-Digest: MDSy8TMSlMCwTsX9XgT08oDNynk=
+
+Name: assets/book/-1566606066745.am
+SHA1-Digest: KJc33RGV9C7XdoYhAgW4v+38PFw=
+
+Name: res/drawable/jz_00050.png
+SHA1-Digest: Fil/YZdzKbcWa8RETA7mqp9zJnA=
+
+Name: res/drawable/mark_close_btn.xml
+SHA1-Digest: NpOJfvTxZF2lzxRuYEM+N7MwL1U=
+
+Name: res/drawable/share_select.png
+SHA1-Digest: mNMSZbXUr/7sVtlqlC0nnmgxXZs=
+
+Name: assets/book/-1565348706406.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: assets/book/-1566606037045.am
+SHA1-Digest: tshaSqQcuEH6J2nugTsOVHlzsbc=
+
+Name: res/drawable/indesign_showcoseledown.png
+SHA1-Digest: FqdsPhfzKv4zPeM3L4jhiIoOz0A=
+
+Name: res/drawable/jz_00000.png
+SHA1-Digest: vvEUSXYR6mHcw7dUWv9nxqpFgwE=
+
+Name: assets/book/-1566606051617.am
+SHA1-Digest: xA6wE4dhShWrR/lHHz1Ic6Z8qIc=
+
+Name: res/drawable/finishtip.png
+SHA1-Digest: AN57zliuJWO89wgPD7nm1gg3sJA=
+
+Name: res/drawable/border_input.xml
+SHA1-Digest: P5CvS6/RdAHPwyzFXWw6XrD7JHY=
+
+Name: res/drawable/paint_09.png
+SHA1-Digest: X86FDkyXidC4zX6K7HNrzJ/p74Q=
+
+Name: res/drawable/jz_00031.png
+SHA1-Digest: EDhJRTUxrsvs8D2DaQTdbPLjOvA=
+
+Name: assets/book/-1565402433003.am
+SHA1-Digest: +ZLwVhKLm9MsV/kFJs2UqpoVavc=
+
+Name: res/drawable/orange_btn_corner_select.xml
+SHA1-Digest: IkLM9YSSIrCe5gPctmQy28TvK+w=
+
+Name: res/drawable/puzzlestar2.png
+SHA1-Digest: qK7EsPtKy8zFxYd+VHrwMTQmoNQ=
+
+Name: assets/book/-1566476287451.am
+SHA1-Digest: VE/APpySxNZk5tEiLt55RExGUwQ=
+
+Name: assets/book/-1566477773364.am
+SHA1-Digest: EDOIjJ6kF3m/7AYsec+8BXQMtG0=
+
+Name: res/drawable/jz_00017.png
+SHA1-Digest: 4zX1jd3/8Sg+xUEYd3iQb+OhGKc=
+
+Name: res/drawable/jz_00026.png
+SHA1-Digest: h95w8ZZkFeCuhHR4iYvm2jK2ots=
+
+Name: res/drawable/scan_enable.png
+SHA1-Digest: 48agUUXfyQKjyYGXmzIMFgEDBXs=
+
+Name: res/drawable/mark_delete_press.png
+SHA1-Digest: hKoEvStNLon9p+qM+nvz8KbePYo=
+
+Name: res/drawable/defaultbackground.png
+SHA1-Digest: HnUgX62r5KNeVkeFvrdeXNSGDTA=
+
+Name: res/drawable/jz_00016.png
+SHA1-Digest: 8xzei9P56q/ZVPc885RTevb/0pA=
+
+Name: res/drawable/indesign_searchbtndown.png
+SHA1-Digest: lUCCfUl2gfP4YVB/FDuxex+wLnY=
+
+Name: assets/book/-1566606057651.am
+SHA1-Digest: MItx727sTaSK5S+Emsh/TUZRv4k=
+
+Name: res/drawable/ios_media_zoomout.png
+SHA1-Digest: czbFuRatUealHljVtngDdfdHzEo=
+
+Name: assets/book/-1566606062696.am
+SHA1-Digest: tO2Jk1JAhba7pYwxDv527Oi0TOU=
+
+Name: res/drawable/indesign_titlebgimg.9.png
+SHA1-Digest: 6OI+deCSJ/Gkqg9p1hENpBYRrQk=
+
+Name: res/drawable/jz_00015.png
+SHA1-Digest: x7tkkeoj9m+LRlLQnGwbuftmYNc=
+
+Name: res/drawable/jz_00021.png
+SHA1-Digest: n6J0+Ay8h2dmNv0ObuNTjT58O5w=
+
+Name: res/drawable/puzzlelinev.png
+SHA1-Digest: KvdljDpDBirP4kEceXJ7E37Tptk=
+
+Name: res/drawable/indesign_cata_collectimg.png
+SHA1-Digest: Mb7xRZhgcZe7xCXuaEST59tPpvM=
+
+Name: assets/book/-1566476278791.am
+SHA1-Digest: QlXbiVgk19kS9KRTFjWOenITO6A=
+
+Name: res/drawable/jz_00002.png
+SHA1-Digest: KpN1yaKfQrnLO/7HELav+P4Ecm0=
+
+Name: assets/book/-1566606036514.am
+SHA1-Digest: Yfa5bfePptmB3vNotHXAC6mB+NA=
+
+Name: res/drawable-zh-TW/background.png
+SHA1-Digest: bFTaMy+fCPWmShdqgtCKkjpkVyI=
+
+Name: lib/arm64-v8a/libmupdf.so
+SHA1-Digest: 0ssXTIS6pLPd+TFiCKGUJkOgPUw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: yglf0jt66/7jHOPZ+kYL7ScfW84=
+
+Name: res/drawable/jz_00024.png
+SHA1-Digest: 0z4qNs2TV+9HrV9uTfNVqo11+/A=
+
+Name: res/drawable/eraser.png
+SHA1-Digest: +zvyJcgwfuzBi7XyoN3ShQXstLE=
+
+Name: res/drawable/paint_08.png
+SHA1-Digest: JvnTP4lUiUbUWEFjw4TtoAmxQr4=
+
+Name: lib/armeabi/libmupdf.so
+SHA1-Digest: HnL5rGQ9d9rFIdZ3fqSkutggfY4=
+
+Name: assets/book/-1566606072052.am
+SHA1-Digest: eUe34V8Y5sfK+sXVBuRWdXDXmtk=
+
+Name: assets/book/-1566606068775.am
+SHA1-Digest: AfQNv/lnwbSqQ2x4QRi6qji2oZI=
+
+Name: res/drawable/star_2.png
+SHA1-Digest: yZ8zlLi23VMjfl96AbOTNYKALEk=
+
+Name: res/drawable/jz_00038.png
+SHA1-Digest: 2uY7wwj6yl0AxsgSZ4syA5VLpXk=
+
+Name: classes.dex
+SHA1-Digest: rfie4g/cObsIaZgVBPpWc97S9S0=
+
+Name: assets/book/-1566606069656.am
+SHA1-Digest: oKHmeB3DYr3axxsL7I24Nc6jNbk=
+
+Name: res/drawable/folderopen.png
+SHA1-Digest: e7eubjwB0FnhHpXE17MlBXa+nhs=
+
+Name: assets/book/-1565503555116.am
+SHA1-Digest: kSqWyX1pfX4G+3RvlBQfXmeh14A=
+
+Name: res/drawable/mark_add.png
+SHA1-Digest: c5GYg7dyajVwUAJIcx5F6UPK4vc=
+
+Name: res/drawable/puzzlestart.png
+SHA1-Digest: 12HuGVDEjqjNqHIQ6ZhjWgZjWSk=
+
+Name: assets/book/-1565413781053.am
+SHA1-Digest: oIWgHGEfLLZD+nzrZx/0TyeV1dU=
+
+Name: res/drawable/btn_gohome_selector.xml
+SHA1-Digest: D7HtueN9ObWq/sXYLABbMqR+hhE=
+
+Name: res/drawable/left_select.png
+SHA1-Digest: YY9bkoCHvJy37j9KhoS+CbUkwtI=
+
+Name: res/drawable/left_arraw_select.xml
+SHA1-Digest: AWfl0eAQrDre5wyrUiN4D0I3Sf8=
+
+Name: res/drawable/jz_00029.png
+SHA1-Digest: UF1aW3itiFKKXCkh6kpII9YOuQs=
+
+Name: res/drawable/rp_2.png
+SHA1-Digest: a8wfPpjuGN4tNZVANWmzVNYCKi0=
+
+Name: res/drawable/paint_13.png
+SHA1-Digest: FTdNs2wM2YPez7UcbmvIgpBo6aE=
+
+Name: res/layout-port/pdf.xml
+SHA1-Digest: e47EnnUy4am2L2gyjS29NkdZi1k=
+
+Name: res/drawable/jz_00004.png
+SHA1-Digest: X4u2JDX2ECLcZrAFnJcXEphBJm0=
+
+Name: res/drawable/twwaterstain.png
+SHA1-Digest: zV1QBqpkRZkjwaXWb78q9iAdkhY=
+
+Name: res/drawable/btn_gopush_selector.xml
+SHA1-Digest: tA+Keb2wHS782LaI87yclr1bG2M=
+
+Name: res/drawable/paint_15.png
+SHA1-Digest: Aua/q9Qd8f337x/dQ/EYxTsosfM=
+
+Name: res/drawable/indesign_showconorup.png
+SHA1-Digest: z6K8EgoDJN2nookKgs+fpmy1vO8=
+
+Name: res/drawable-zh-TW/puzzlecancel.png
+SHA1-Digest: Lengv8DnW0E7uy0VVXG6dHoXpyE=
+
+Name: assets/book/-1566606055981.am
+SHA1-Digest: RVsNXiZzLJOvR+ew61YhMoq8Yds=
+
+Name: assets/book/-1566476288098.am
+SHA1-Digest: 5alFy2ME3Tt9nhBMYgIS7bIT2sk=
+
+Name: res/drawable/arrowup.png
+SHA1-Digest: wZ7PRVbfnctzID+d2ggRq4Zx/ps=
+
+Name: res/drawable/jz_00023.png
+SHA1-Digest: wjCgmc7FzIHtU4LJWbu/DKYS9es=
+
+Name: res/drawable/indesign_searchbtnup.png
+SHA1-Digest: hNVTQ6CEbfaHFWgrWmvXlWXudWY=
+
+Name: res/drawable/indesign_colle_bgimg.png
+SHA1-Digest: kfgNIOeqO53aKAGSOKp6XKn2R2k=
+
+Name: res/layout/gotopage.xml
+SHA1-Digest: JxigCPAfGkz8ipZ0ruqu7MonZhI=
+
+Name: res/drawable/ic_list.png
+SHA1-Digest: DUx1UcW+yar0ULgK4xwdLwwwNc4=
+
+Name: res/drawable/right_arrow_down.png
+SHA1-Digest: l2SLzS90DakSANqqU4mXM3YI9Lo=
+
+Name: assets/book/-1565403611232.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/drawable/back_normal.png
+SHA1-Digest: yAC9AHcnU5dCn0lU6Ov0I4Wq83s=
+
+Name: res/drawable/jz_00040.png
+SHA1-Digest: sSHduTGJmEbi46TZAZmW2CqoIzI=
+
+Name: assets/book/-1566606039654.am
+SHA1-Digest: cCPjV+Xn9aaPIn2KQPuvo/DqUxU=
+
+Name: res/drawable/indesign_sharebtndown.png
+SHA1-Digest: vzX0+xugb9i++7KAPG+kAr3BtCo=
+
+Name: res/drawable/jz_00013.png
+SHA1-Digest: CUytYq0+s4IOlr08c8z+O+tgaKE=
+
+Name: assets/book/-1566461670242.am
+SHA1-Digest: ZKBKN/qEvSq4gugdh9Ik/APY5to=
+
+Name: assets/book/-1565402577238.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/drawable/paint_02.png
+SHA1-Digest: tusem2GJT9E2P1LUA8bA3IGYCwQ=
+
+Name: assets/book/-1566472682589.am
+SHA1-Digest: 72a2W9GQma1zjl31mDxzbEKYBJg=
+
+Name: res/drawable/hlvidiodefault.jpg
+SHA1-Digest: i3P5E5diUwrBhPp3rrbqIbKCxfg=
+
+Name: res/drawable/camer_b.png
+SHA1-Digest: N/D3isPowqkVJvRTZIbxhRhGjfU=
+
+Name: res/drawable/paint_04.png
+SHA1-Digest: MxdIxWmgkW9ndxGufzHxkVLWoQo=
+
+Name: assets/book/cover.png
+SHA1-Digest: i0yAcl20hF9q0BjgHzoXBsCOn64=
+
+Name: res/drawable/mark_delete.png
+SHA1-Digest: wXV7mwB5u80Ys7D6nHltV3hBOU4=
+
+Name: res/drawable/paint_11.png
+SHA1-Digest: wuZM81yBmoEyw3puaMY9MtvNKFg=
+
+Name: assets/book/-1566476281788.am
+SHA1-Digest: L7k6LeP/p2lief/9rfsG685CjgE=
+
+Name: res/drawable/jz_00059.png
+SHA1-Digest: IAVOfmafuMZ1j7lQf6R5ZUPG6/8=
+
+Name: res/drawable/radio_incorrect.png
+SHA1-Digest: 8EU4eR5CkbtNcO4lrqb/mRm++Bk=
+
+Name: res/drawable/back.xml
+SHA1-Digest: oabvqxdN/QKjvII5KgozwbP0hj8=
+
+Name: res/drawable/jz_00055.png
+SHA1-Digest: OgrxCtcWvsBIpxIM/4kBPgOxI5g=
+
+Name: res/drawable/paint_03.png
+SHA1-Digest: RSE5LJ7xTsNmlGDFvGgrMfkuwLM=
+
+Name: assets/book/-1566606053909.am
+SHA1-Digest: opWsY6CnS++iuZzTyJSl7iC7B1U=
+
+Name: res/layout-land/pdf.xml
+SHA1-Digest: XAFlQwgcFB7h+AW0ZS5Za2/Ugug=
+
+Name: res/drawable/jz_00027.png
+SHA1-Digest: et06ZTGAd1EWejTT7ZLy3VdpRUo=
+
+Name: res/drawable/back_select.png
+SHA1-Digest: snFg7xvPUx+93Hmpp0RDk659JYA=
+
+Name: res/drawable/btn_movebtn_selector.xml
+SHA1-Digest: MGVceAor11lNM/EJtG+ew8JHDqk=
+
+Name: res/drawable/indesign_sharebtnup.png
+SHA1-Digest: KZQ/cR3KITy7LfGgcBpebi8jggY=
+
+Name: assets/mediav_ad_download_icon.png
+SHA1-Digest: doPbS67FmCi818D1/sFoMFblK9Q=
+
+Name: res/drawable/home.xml
+SHA1-Digest: FQ5Unq0JPY2ow/T2ygVYNR0nopY=
+
+Name: res/drawable/jz_00019.png
+SHA1-Digest: ilOGgKjS4ewSrQnoILzZn56rO0k=
+
+Name: assets/book/-1566606062316.am
+SHA1-Digest: JDgIJHHUgVK/OqUJMDHYXGmXTOQ=
+
+Name: res/drawable/jz_00008.png
+SHA1-Digest: VZuL6d/95wkCNGhuBOzPoc60F9c=
+
+Name: res/drawable/left_normal.png
+SHA1-Digest: jxO7DRiVKjYgsWaj4eI8fzJr56o=
+
+Name: res/drawable/btn_golastpage_selector.xml
+SHA1-Digest: ElIEPJpXyhukK8kTj/XfLw8E4GU=
+
+Name: res/drawable/pp_2.png
+SHA1-Digest: ucVLyXOEnKgl9R5ebICY1N9u/p0=
+
+Name: res/drawable/audio_play_selector.xml
+SHA1-Digest: ToOXPeVHxU2HVSdQuzJOsghwvoI=
+
+Name: res/drawable/jz_00051.png
+SHA1-Digest: NWKRTT/3PieWW8ylIzuC2SK0MFw=
+
+Name: res/drawable/puzzlelineh.png
+SHA1-Digest: ryyWrT7voSOIouyYj0HeFmSRZD0=
+
+Name: res/drawable/puzzlebg.png
+SHA1-Digest: XhpJqGT/oI5hlBWokTSbExtc6dY=
+
+Name: res/drawable/radio_up.png
+SHA1-Digest: JG5//Pa4uvLhsPi3TrVi1KPu0Uw=
+
+Name: res/drawable/audio_stop.png
+SHA1-Digest: 1bl5kVrQXN359AlKJmLwZPQuBvo=
+
+Name: res/drawable/jz_00049.png
+SHA1-Digest: ZN45BUpk0+zwdSZpo4B+ztWOQqU=
+
+Name: res/drawable/jz_00032.png
+SHA1-Digest: WFiqVQ6bpeOZ1gSN5HE+MiCxk7k=
+
+Name: res/drawable/right_normal.png
+SHA1-Digest: 81p7bmSLiXO4Q7EyZJ67joUKoYA=
+
+Name: res/drawable/jz_00047.png
+SHA1-Digest: GuttEAKuAUgWUNQuzLCUROt0BLE=
+
+Name: res/drawable/home_normal.png
+SHA1-Digest: TZfzazJVUShhhxgpY7uTuvAwUBs=
+
+Name: res/drawable/puzzleok.png
+SHA1-Digest: c/woINh0IhdNb+CdhdpGos6KY1w=
+
+Name: res/drawable/indesign_bottomnav_bg.9.png
+SHA1-Digest: PlNnEtr5wgF3kMUiR1uilSZpeqU=
+
+Name: res/drawable/right.xml
+SHA1-Digest: WZ0djXVcl8lyQBAfwpzejf+Ph2I=
+
+Name: assets/book/Default.am
+SHA1-Digest: mh7mxGDiqDFoT/uuNmTsfhdl6tI=
+
+Name: res/drawable/trash_button.png
+SHA1-Digest: Wck2rpmBp64RtCeATqoQOePQoBE=
+
+Name: assets/book/-1566477818786.am
+SHA1-Digest: MgRIcaQSuSaj1QuTnkwHXNNTbQg=
+
+Name: res/layout/browseritem.xml
+SHA1-Digest: UTtm7uxKpUFhZHVhCS5DT3FeiVU=
+
+Name: res/drawable/paint_16.png
+SHA1-Digest: W4nRQQ7bKZYAnBzh8J4g0FU73mQ=
+
+Name: assets/book/-1566606036780.am
+SHA1-Digest: HAixWIYMCzuUOmU7SMeUMTrV1KY=
+
+Name: res/drawable/paint_12.png
+SHA1-Digest: 8zu9QJAl12yhKTMapoEe6snu1/s=
+
+Name: res/drawable/indesign_backbtnup.png
+SHA1-Digest: CLyyCJmu6pTVWsyNeZwfcDrC85g=
+
+Name: res/drawable/ic_arrow_right.png
+SHA1-Digest: qQVVOPXZyTLIlStVZzFJAlGjhEY=
+
+Name: res/drawable/indesign_navhomebtndown.png
+SHA1-Digest: GaRAdE52HTbvV767Z/cZQ+ZzSWg=
+
+Name: res/drawable/home_select.png
+SHA1-Digest: LxjNlWe3llQobSox0WPKJZCsabs=
+
+Name: res/drawable-ja-JP/mark_add.png
+SHA1-Digest: iF2cPo7jY0h2DVClBsF4q6TNFB0=
+
+Name: res/drawable-zh-TW/ic_launcher.png
+SHA1-Digest: ikexwI45PjqM/rQehtcKRwSFgtg=
+
+Name: res/drawable/puzzlepress.png
+SHA1-Digest: wla7TKVGSyU+2TNP3obKD6S78o4=
+
+Name: assets/book/-1565348851328.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/drawable/mark_close_press.png
+SHA1-Digest: 5RN9ihhtQZjgS1VtecMvzS3dws4=
+
+Name: res/drawable/orange_corner_border.xml
+SHA1-Digest: IUUkYN9A31hLZiNAMrTH7/8ILSU=
+
+Name: assets/book/-1565348819580.am
+SHA1-Digest: +ZLwVhKLm9MsV/kFJs2UqpoVavc=
+
+Name: assets/book/-1565507561488.am
+SHA1-Digest: kSqWyX1pfX4G+3RvlBQfXmeh14A=
+
+Name: res/drawable/ios_media_pause.png
+SHA1-Digest: io1ngxM0JsvrUTJnLMj1gssEMAY=
+
+Name: lib/android-support-v4.jar
+SHA1-Digest: SMlK5w+mVxizggmCN4BqWQm7CW4=
+
+Name: assets/book/-1565348690274.am
+SHA1-Digest: +ZLwVhKLm9MsV/kFJs2UqpoVavc=
+
+Name: res/drawable-ja-JP/ic_launcher.png
+SHA1-Digest: ikexwI45PjqM/rQehtcKRwSFgtg=
+
+Name: assets/book/-1566606065280.am
+SHA1-Digest: SIxGW3MEjy/2y/wvnaCJ4rQtj/s=
+
+Name: assets/book/-1566606053550.am
+SHA1-Digest: DLMMacdm3UstqyBocl5qYNlippM=
+
+Name: res/drawable/close_select.png
+SHA1-Digest: o9cw3Bq2zGw3hKuGvPejyw7vvGc=
+
+Name: res/drawable/book.png
+SHA1-Digest: r/1Tt/KBwqi2D4pPgbVBLRGMzQg=
+
+Name: res/drawable-ja-JP/mark_close_press.png
+SHA1-Digest: zE2Cuiset3UQzDpvbW7QxmiYlY0=
+
+Name: assets/book/-1566606055410.am
+SHA1-Digest: 7vCkPBvDyulnSlS6lLU4AtJHFoY=
+
+Name: res/drawable/jz_00054.png
+SHA1-Digest: 49SDAJGz7ZD/0S9axTlPGTexsV4=
+
+Name: res/drawable/left_arrow_down.png
+SHA1-Digest: fnCt3002UBe7CiT1qWn1Bddxiew=
+
+Name: res/drawable/waterstain.png
+SHA1-Digest: bggMPEiQpEdeCRGf9/AcHnYutOQ=
+
+Name: res/drawable/scene_ic_loading_invert_3d.9.png
+SHA1-Digest: 9/6laUUcuCXlIRKWXn8V2178H3I=
+
+Name: res/layout/outline_entry.xml
+SHA1-Digest: IxjCfsAu1d973mX5x0NjuDEDlgc=
+
+Name: res/drawable/mark_title.png
+SHA1-Digest: /WDb8rauSHgLFhY50PSoqSMhrSM=
+
+Name: assets/book/-1566476275090.am
+SHA1-Digest: ZvFyfkt/8RuPPRaqvHBIKnCI/2E=
+
+Name: res/drawable/indesign_navhomebtnup.png
+SHA1-Digest: 4o07N9diuqGMo6cQ/VHCOGTr8yM=
+
+Name: res/drawable/indesign_sliderbarclearbg.png
+SHA1-Digest: FRHl4DeZPAb4PDF9KL+oFi2B5dI=
+
+Name: res/drawable/paint_14.png
+SHA1-Digest: FCgJ4Gc+5C5hVgySuqCU4qNl6DI=
+
+Name: res/drawable/audio_pause01.png
+SHA1-Digest: eiwCt6VJFb4i4C4EC+bL/L25dWo=
+
+Name: assets/book/-1566477813946.am
+SHA1-Digest: MgRIcaQSuSaj1QuTnkwHXNNTbQg=
+
+Name: assets/book/-1566606035247.am
+SHA1-Digest: jijEN7wCGrjLksBRwmxs1s7tupk=
+
+Name: res/drawable/indesign_topnavbgimg.png
+SHA1-Digest: +pO966JmRcjGlNtg53Wkh9mWai0=
+
+Name: res/drawable/jz_00044.png
+SHA1-Digest: NCIgp5/9F0MrC+++fwEQhNAfjUA=
+
+Name: res/drawable/audio_pause02.png
+SHA1-Digest: /2SigWMGFghO06fTpD44CfWNZ14=
+
+Name: assets/book/-1566606060161.am
+SHA1-Digest: lsq9rgjqmRpc1Wi7Kwxyi1aa8Us=
+
+Name: res/drawable/mark_edit_press.png
+SHA1-Digest: SSTK71P58N0RSlau+ims3MhoMAg=
+
+Name: assets/book/-1566606037738.am
+SHA1-Digest: tVIYRlzyck6Sg2qzMv7Znol/daU=
+
+Name: res/drawable/player_seekbar_thumbnail.png
+SHA1-Digest: eOxLKmkJOo+WxVTJdzb4Plxk97w=
+
+Name: assets/book/-1566476280946.am
+SHA1-Digest: SS+rqAQ8kKr8H8ApEFlXUDdqy5A=
+
+Name: res/drawable-ja-JP/mark_title.png
+SHA1-Digest: vwCD9Ng904tSxPODeKO7BdBg0wk=
+
+Name: assets/book/-1566471200006.am
+SHA1-Digest: 72a2W9GQma1zjl31mDxzbEKYBJg=
+
+Name: res/drawable/indesign_navbackbtnup.png
+SHA1-Digest: faT4bROV59TLZ2vP8AxVBgtz6NU=
+
+Name: res/drawable/jz_00006.png
+SHA1-Digest: XCe2ZQTJK+ar2MgSgz9RMtaNXrc=
+
+Name: assets/mvad_config.xml
+SHA1-Digest: 9ePOGNlhOyVymY+ChgP75dDqlDU=
+
+Name: assets/book/-1566606072839.am
+SHA1-Digest: SHtx7RGlnsOcvv3YEQhLLxc5kbk=
+
+Name: res/drawable/jz_00046.png
+SHA1-Digest: TZhVcBphUjZ+hrFb/c2LZb7aFX4=
+
+Name: assets/book/-1566606064530.am
+SHA1-Digest: opYnqqH+WnE5mJlRSry0+6L1p34=
+
+Name: assets/book/-1565403438028.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/drawable/close_normal.png
+SHA1-Digest: lSpgeAk5G8uDyOXDapNRemOxE5I=
+
+Name: res/drawable/close_button.png
+SHA1-Digest: o6Wct8mewVRRpAU/bibFUKuloRM=
+
+Name: assets/book/-1566476277387.am
+SHA1-Digest: VhP2P77dd8dGUk9/6+jsiYGoRBI=
+
+Name: res/drawable/indesign_showcoseleup.png
+SHA1-Digest: GoJZcSGpolecimBpqeME0Cvtpgw=
+
+Name: assets/book/-1565506840882.am
+SHA1-Digest: uwaLHNAx4ay7tCTZm4L9ipqwQ2E=
+
+Name: assets/book/-1566477788716.am
+SHA1-Digest: cmt3t65cVW4p3ZboBmk2xXYToN0=
+
+Name: res/drawable/indesign_backbtndown.png
+SHA1-Digest: 2RkdisdzCK9afSZ4YDOme9AKwq8=
+
+Name: res/drawable/audio_play.png
+SHA1-Digest: MKj/POtaHBeUfYEuM4Scc7svceA=
+
+Name: res/layout/picker_entry.xml
+SHA1-Digest: Dbzh8ZgQYPdUNh//YPfAOBPp6qU=
+
+Name: assets/book/-1566476276565.am
+SHA1-Digest: RlkxIiTLUMSDAIMA6i8DvhZf3wk=
+
+Name: res/drawable/jz_00052.png
+SHA1-Digest: ZVpahhM5k+Hx2FwjaUgp6v9vXpY=
+
+Name: res/drawable/play_paus2.png
+SHA1-Digest: JG3cF2k+R32n1rHyg5Ct796Uep8=
+
+Name: res/drawable-zh-TW/finishtip.png
+SHA1-Digest: 5N5BAD4bMgPrKj4MAmys2QYsEXk=
+
+Name: res/drawable/indesign_cata_bgimg.png
+SHA1-Digest: OKmo47RmKg4+6oEiCScuGoxWbUc=
+
+Name: res/drawable/jz_00041.png
+SHA1-Digest: oNApXmaID+/iSYTQOG4vDqCqHhY=
+
+Name: res/drawable/downgrallerybtn_select.png
+SHA1-Digest: RgFhIZyHcaImD1Gd28pkSzW3LII=
+
+Name: assets/book/-1566606056356.am
+SHA1-Digest: 0/OXboI5lu00EyIP9AVd7bF1gPs=
+
+Name: res/drawable/camer_f.png
+SHA1-Digest: bsrUxO+ffmkGsMf/kG0nFcIg+Mo=
+
+Name: res/drawable/puzzlecancel.png
+SHA1-Digest: v/K+faYjwwuHY6VNRiKi+7KXcTE=
+
+Name: res/drawable/indesign_collectionbtnup.png
+SHA1-Digest: 8RLS5buK8XHXLGWSywjnfZycXbA=
+
+Name: res/drawable/scan_disable.png
+SHA1-Digest: fNsRsdBTuXks8guyHdj/A4C74YM=
+
+Name: res/drawable/indesign_collectionbtndown.png
+SHA1-Digest: IeVeJXR8omSzerVtKL9F2XSBqcg=
+
+Name: res/drawable/jz_00060.png
+SHA1-Digest: ry/1ENHMbM3o76BcucVkMExTXxc=
+
+Name: res/drawable/background.png
+SHA1-Digest: FQnNx+g5qfueaKWpN7Ijn57p6qU=
+
+Name: assets/book/-1565403403769.am
+SHA1-Digest: +ZLwVhKLm9MsV/kFJs2UqpoVavc=
+
+Name: res/drawable/star_1.png
+SHA1-Digest: oayzr8fyx0199nFHxrvzDoTE2lU=
+
+Name: resources.arsc
+SHA1-Digest: WKpg5hG16Qthjsy8QIDjdLNT+Pg=
+
+Name: res/drawable/jz_00007.png
+SHA1-Digest: Um+Pd4IvfTH83DLQnjP0mPhESSU=
+
+Name: res/drawable/push_n.png
+SHA1-Digest: ohMJ5yQqkej0M2UnSAgSslC4U+k=
+
+Name: res/drawable/op_1.png
+SHA1-Digest: 4DlSaa3DIx5e7kCThbXSni3ZOL8=
+
+Name: assets/book/-1566477764348.am
+SHA1-Digest: nqgplm+wUUYNdqm5ya5029yuoaE=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: ikexwI45PjqM/rQehtcKRwSFgtg=
+
+Name: assets/book/-1566606072917.am
+SHA1-Digest: tVIYRlzyck6Sg2qzMv7Znol/daU=
+
+Name: res/drawable/op_2.png
+SHA1-Digest: 4BzQRNxet5GyGY0lxSAc/yLO0eA=
+
+Name: res/drawable/page_num.xml
+SHA1-Digest: iX65jZU/S7O3oGMHbMXl7lvIT1o=
+
+Name: res/drawable/play_02.png
+SHA1-Digest: 7RAqmle/F/gd0GzAoYnLOFJV6Ak=
+
+Name: assets/book/-1566476285272.am
+SHA1-Digest: 3YbOJZeOrWJkg95ZjqRMyDVVYfA=
+
+Name: res/drawable/indesign_bottomnavsliderbtndown.png
+SHA1-Digest: QFjMo198aidD7RXWXvGeILUmIWI=
+
+Name: res/drawable/left.xml
+SHA1-Digest: 4Ob0NTc6dwY0Za2sq3RCbACvC1M=
+
+Name: res/drawable/serifs.png
+SHA1-Digest: HiS5kZLzzsJ9RuFjd7tFYjH6t6Q=
+
+Name: res/drawable/radio_down.png
+SHA1-Digest: j2ZNSZ6yi+LsC9h2hUO8rfyhz6s=
+
+Name: assets/book/-1566476275757.am
+SHA1-Digest: WjVhEHdIex4uLB66Q3rf/WJPky8=
+
+Name: res/drawable/icon.png
+SHA1-Digest: SId7GfXSlaWbpGLI9QKK/vz1aK0=
+
+Name: assets/book/-1566477781431.am
+SHA1-Digest: Zz4aZCyBulHWf+kKDeX4HJMyUvw=
+
+Name: res/drawable/indesign_navcatabtndown.png
+SHA1-Digest: kG5i35HqDH6V1P6WGXtLe2xJ5Sw=
+
+Name: res/drawable/jz_00043.png
+SHA1-Digest: U738/HY2bkEOtfw77yMR+q8Dme0=
+
+Name: res/drawable/sound.png
+SHA1-Digest: uwMuOK5vEWHyDWQitX9nnl8iIBQ=
+
+Name: assets/book/-1566475933969.am
+SHA1-Digest: MPGcJWody7DnPLy3pjrtH11ue6g=
+
+Name: res/drawable/audio_stop_new.png
+SHA1-Digest: BPd3uPDX89ISUeWfDl4D4zO9LcI=
+
+Name: assets/book/-1566606039051.am
+SHA1-Digest: +r1fdXMVovwEH1L/2UGrawWxnQY=
+
+Name: res/anim/dianjing_anim_exit.xml
+SHA1-Digest: IQu530LuXAAxnAOQK3Kl66eF0EE=
+
+Name: res/layout/pdf.xml
+SHA1-Digest: QnlDCIBgWDQTv0asv8D+wWYMWog=
+
+Name: res/drawable/mark_add_btn.xml
+SHA1-Digest: GCWVnqkofLTSm61qZcTqbgC8Qc0=
+
+Name: res/drawable/dian02.png
+SHA1-Digest: KcqxSHRwwtlJetBJI3EHIvT3yO8=
+
+Name: assets/book/-1565503010972.am
+SHA1-Digest: FnV9nMIGmyVtSIQRU9sigX3yuLk=
+
+Name: assets/book/-1566606052878.am
+SHA1-Digest: JypwGdCrVMq06I4WVMOG1y2nZEo=
+
+Name: res/drawable/left_arrow.png
+SHA1-Digest: K88+zfZ9zy6F7gvcjNx5k6Zlri8=
+
+Name: assets/book/-1565507011761.am
+SHA1-Digest: uwaLHNAx4ay7tCTZm4L9ipqwQ2E=
+
+Name: res/drawable/mark_delete_btn.xml
+SHA1-Digest: R8S4utPDVshDQfn2DqDYhkHjifk=
+
+Name: assets/book/-1566472584034.am
+SHA1-Digest: 72a2W9GQma1zjl31mDxzbEKYBJg=
+
+Name: assets/book/-1566477808847.am
+SHA1-Digest: MgRIcaQSuSaj1QuTnkwHXNNTbQg=
+
+Name: res/drawable/test.png
+SHA1-Digest: tOk4IFRKnolRlWmgc1nNRMDyNg8=
+
+Name: assets/book/-1566476280101.am
+SHA1-Digest: 0H+dQs59yeunzDDD5LgRCtqHd0o=
+
+Name: res/drawable/paintsave.png
+SHA1-Digest: kNLad7X8Jz0XdFdENzBp050KCqs=
+
+Name: res/drawable/indesign_colle_headbgimg.png
+SHA1-Digest: W3Mpp+FyuO9prQ57PfMsG9sshuQ=
+
+Name: res/drawable/jz_00037.png
+SHA1-Digest: YGApWRm/h8AjGcgGnZpJxl7abHs=
+
+Name: res/drawable/paint_01.png
+SHA1-Digest: +73sUTWW8FqKpi2xgEitzEV9hGM=
+
+Name: res/drawable/mark_edit.png
+SHA1-Digest: N+1kV1uWUPW6tOVbYWde7ypE2xY=
+
+Name: res/drawable/jz_00030.png
+SHA1-Digest: 6nGIa3UK+8Bh17svvB42nWx1AnE=
+
+Name: res/drawable/paint_07.png
+SHA1-Digest: vLIUzGS+p4nK6NJ/SEzKIk8Tc3Q=
+
+Name: res/drawable/jz_00033.png
+SHA1-Digest: 0Z1nJMLojUap382j9oy4n/ymCpk=
+
+Name: res/drawable/ic_magnifying_glass.png
+SHA1-Digest: zV4AKgQ3t9v29fAKmPWdpDwXS3Y=
+
+Name: res/drawable/mark_add_press.png
+SHA1-Digest: 2Niaftse3G8Rvyl0LAmbPdKwO64=
+
+Name: assets/book/-1566606072131.am
+SHA1-Digest: tVIYRlzyck6Sg2qzMv7Znol/daU=
+
+Name: res/drawable/jz_00057.png
+SHA1-Digest: YoIyxvRBVkIsd023qnXEY7ntblc=
+
+Name: res/layout/main.xml
+SHA1-Digest: ZCmC10xhvKODhY5YfgeTGv5IuBU=
+
+Name: assets/book/-1566606050492.am
+SHA1-Digest: 5BmTtrC7I43+JwjwVG1jgfNvuP8=
+
+Name: res/drawable/tbp.png
+SHA1-Digest: 8ppY1FiAcRwZ8QoP/hJdMfJ+4C0=
+
+Name: res/drawable/center.png
+SHA1-Digest: ajc2KDpos3VDFbnclvlHqNj3qwM=
+
+Name: res/drawable-ja-JP/mark_close.png
+SHA1-Digest: 1068B9beivpRm65hxhirOj4/sGY=
+
+Name: res/drawable/jz_00036.png
+SHA1-Digest: KUSErCPaXewg7EVNsJJcu9VzWaU=
+
+Name: res/drawable/mark_close.png
+SHA1-Digest: ucPeyHi9xQzgOTCYlMtklqucr4E=
+
+Name: res/drawable/jz_00053.png
+SHA1-Digest: Ea8Oz4l+Ee8cPsckR3gv7G13Sus=
+
+Name: assets/book/hash.dat
+SHA1-Digest: 5TNY8MNl/4LKVDGUv6nXCZgvG4E=
+
+Name: res/drawable/audio_pause_selector.xml
+SHA1-Digest: ZpvMC/SmiTQ7a9uQMN58FCMvsio=
+
+Name: res/drawable/paint_05.png
+SHA1-Digest: la+qXni7Sw6A84V+rQfIOjwyRN8=
+
+Name: assets/mediav_ad_close.png
+SHA1-Digest: j02DmGahPTrCTTl/FASynrLITJI=
+
+Name: res/anim/dianjing_anim_enter.xml
+SHA1-Digest: Nmj1BGgsmEQAsfeIcWD+0gnN2PU=
+
+Name: res/drawable/jz_00042.png
+SHA1-Digest: T8+y6CfkhDlckrt2AbKcrMdS6oc=
+
+Name: res/drawable/ic_hl_link.png
+SHA1-Digest: AS4SVq8cXxvf1eMCYtET6RWUDgE=
+
+Name: res/drawable/jz_00009.png
+SHA1-Digest: c09Lt3hLY35oo3xDPgw+O187sUE=
+
+Name: res/drawable/indesign_navbackbtndown.png
+SHA1-Digest: TYVGMRhWTwjPnw61v1crJCTpI7Q=
+
+Name: res/drawable-zh-TW/puzzleok.png
+SHA1-Digest: 3VcTkmdjusbYOwUEJcsN4U22qxA=
+
+Name: res/layout/welcome.xml
+SHA1-Digest: LWXsW2tinkuTe8TGBbPx6DpRWgQ=
+
+Name: res/drawable/clean.png
+SHA1-Digest: A82BYDQrFjKx6TrPjKZ9dHol4ek=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: fiGZppigkTSe8THx++G+lt0qOJY=
+
+Name: res/drawable/jz_00045.png
+SHA1-Digest: gkmqywVLZphlmEVvCDdZ+DIJnbA=
+
+Name: res/drawable/jz_00058.png
+SHA1-Digest: NOLVWCfPfpqsV7h9EQe2D/p0YiQ=
+
+Name: res/drawable/media_player_seekbar_selector.xml
+SHA1-Digest: lOeIB5WWuCF64g0nzzJE4VgCakA=
+
+Name: assets/book/book.xml
+SHA1-Digest: Ina1Bk6iynZU2QRgPbHRW8wXrbU=
+
+Name: res/drawable/mark_edit_btn.xml
+SHA1-Digest: UxfkdnPqKcsBmtgvFEBpZpLUYzY=
+
+Name: res/drawable-ja-JP/mark_edit_press.png
+SHA1-Digest: FVZE2HCzNkAVZZJWRtKnTeIWXaI=
+
+Name: res/drawable-ja-JP/mark_edit.png
+SHA1-Digest: D1D1pMYdq0MDXOSEoN41aseYj5M=
+
+Name: res/drawable/tiled_background.xml
+SHA1-Digest: h+pMb8pMqaFu8kIHjXzsJQuDz48=
+
+Name: res/drawable/jz_00028.png
+SHA1-Digest: 2sxnWgKUzYG1mU+3YCooLytYPQg=
+
+Name: res/drawable/jz_00056.png
+SHA1-Digest: fauZuH5Tx/mFlN0EdX/qh7hY1TU=
+
+Name: res/drawable/media_control_bg.png
+SHA1-Digest: ws0Mc+LDozPafe1zwKO188dOQUw=
+
+Name: res/drawable/jz_00012.png
+SHA1-Digest: Fh2YF+kDDgDPcE2yshUECCmkYRY=
+
+Name: assets/book/-1566606048383.am
+SHA1-Digest: hY2SaMoBJkrKceRGLJHb+IfiCbg=
+
+Name: res/drawable/jz_00014.png
+SHA1-Digest: garef6JWs10VSY1JkfxxlfCX9Sw=
+
+Name: res/drawable/water_stain.png
+SHA1-Digest: XTbpnXfmFfW4peXLkCa+EyxNBpA=
+
+Name: res/drawable/darkdenim3.png
+SHA1-Digest: YcnQspqLcdGAnWCOVikOjYUhaB0=
+
