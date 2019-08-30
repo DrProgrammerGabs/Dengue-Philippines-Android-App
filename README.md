@@ -1,6 +1,6 @@
 # Dengue Fever Online Consult Android App
 Link to app on Google Play:
-https://play.google.com/store/apps/details?id=com.eternusglobal.dengueconsultenglish
+https://play.google.com/store/apps/details?id=com.eternusglobal.denguephilippines
 
 
 THE FIGHT AGAINST DENGUE IS ONGOING!
